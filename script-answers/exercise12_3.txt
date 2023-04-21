@@ -1,0 +1,5 @@
+docker start -i reverent_kapits
+apt-get update
+apt-get install -y nano
+nano /usr/src/app/index.js
+console.log('Hello World')
