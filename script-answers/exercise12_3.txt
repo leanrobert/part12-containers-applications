@@ -1,4 +1,4 @@
-docker start -i reverent_kapits
+docker start -i reverent_kapitsa
 apt-get update
 apt-get install -y nano
 nano /usr/src/app/index.js
